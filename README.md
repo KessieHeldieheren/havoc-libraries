@@ -6,4 +6,6 @@ This repo contains various utilities that I use for Havoc. I aim to make as many
 
 ## Libraries
 ### [Havoc Timer](https://github.com/KessieHeldieheren/havoc-libraries/blob/master/havoc_timer.lua)
+The Timer library allows you to create realtime, curtime, or tickcount timers with the ability to start, stop, pause, and restart them.
+
 [Documentation](https://github.com/KessieHeldieheren/havoc-libraries/wiki/Havoc-Timer)
